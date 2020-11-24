@@ -7,4 +7,4 @@
 
 
 
-![screenshot](/screenshot.png)
+![screenshot](https://github.com/FelixNull/pmatrix/blob/main/screenshot.png)
